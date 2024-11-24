@@ -1,2 +1,2 @@
-# lx-airbnb-project-documentation
-alx pro dev backend repository
+# alx-airbnb-project-documentation
+alx pro dev backend documentation repository
